@@ -30,32 +30,32 @@ THEN the password is either displayed in an alert or written to the page
 ```
 This is the home page before any click:
 
-![home-page](images/home-page.png)
+images\home-page.png
 
 Then you will be asked to choose how many characters you need, it has to be a number between 8 to 128 or it will not proceed to the next step:
 
-![password-length](images/password-length.png)
+images\password-length.png
 
 Then you will be asked series of questions to determine your desired password criteria:
 
-![special-characters](images/special-characters.png)
+images\special-characters.png
 
-![numeric-characters](images/numeric-characters.png)
+images\numeric-characters.png
 
-![lowercase-characters](images/lowercase-characters.png)
+images\lowercase-characters.png
 
-![uppercase-characters](images/uppercase-characters.png)
+images\uppercase-characters.png
 
 At least one criteria has to be selected or you will get a message and password generator will start over:
 
-![no-criteria-selected](images/no-criteria-selected.png)
+images\no-criteria-selected.png
 
 This is the generated password if all ceriterias are selected and the length is set to 8 characters long:
 
-![8-generated](images/8-generated.png)
+images\8-generated.png
 
 This is the generated password if all ceriterias are selected and the length is set to 128 characters long:
 
-![128-generated](images/128-generated.png)
+images\128-generated.png
 
 Finally this is the link to my deployed application: https://ashariat.github.io/password-generator/

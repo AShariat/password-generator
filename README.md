@@ -30,7 +30,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 This is the home page before any click:
 
-![home-page](https://user-images.githubusercontent.com/88262115/135521776-2bde5269-bcdc-4c1d-9600-8ccace060bcb.jpg)
+![](https://user-images.githubusercontent.com/88262115/135521776-2bde5269-bcdc-4c1d-9600-8ccace060bcb.jpg)
 
 Then you will be asked to choose how many characters you need, it has to be a number between 8 to 128 or it will not proceed to the next step:
 

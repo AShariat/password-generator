@@ -34,28 +34,28 @@ This is the home page before any click:
 
 Then you will be asked to choose how many characters you need, it has to be a number between 8 to 128 or it will not proceed to the next step:
 
-![password-length](https://user-images.githubusercontent.com/88262115/135521823-e6c4d500-98f7-4867-9c47-b03dd9c3ba48.jpg)
+![password-length](images/password-length.png)
 
 Then you will be asked series of questions to determine your desired password criteria:
 
-![special-characters](https://user-images.githubusercontent.com/88262115/135521893-ec2a8135-e130-4463-94d3-729e40242f00.jpg)
+![special-characters](images/special-characters.png)
 
-![numeric-characters](https://user-images.githubusercontent.com/88262115/135521927-f2e2f0ba-1f95-40c3-bdd5-9b6f2785d47d.jpg)
+![numeric-characters](images/numeric-characters.png)
 
-![lowercase-characters](https://user-images.githubusercontent.com/88262115/135521943-62a62e64-2170-4f11-9913-44aac75ce270.jpg)
+![lowercase-characters](images/lowercase-characters.png)
 
-![uppercase-characters](https://user-images.githubusercontent.com/88262115/135521967-17bb9034-a6b4-41d0-8db9-f07cdc6cbadb.jpg)
+![uppercase-characters](images/uppercase-characters.png)
 
 At least one criteria has to be selected or you will get a message and password generator will start over:
 
-![no-criteria-selected](https://user-images.githubusercontent.com/88262115/135521993-6dcc2ece-6c1f-4ed5-b869-e544225cd4a0.jpg)
+![no-criteria-selected](images/no-criteria-selected.png)
 
 This is the generated password if all ceriterias are selected and the length is set to 8 characters long:
 
-![8-generated](https://user-images.githubusercontent.com/88262115/135522038-42353c1e-5f5e-404e-a0f0-111a585c89ad.jpg)
+![8-generated](images/8-generated.png)
 
 This is the generated password if all ceriterias are selected and the length is set to 128 characters long:
 
-![128-generated](https://user-images.githubusercontent.com/88262115/135522064-fcf59ac3-1a55-4914-8195-3e88a2ab90ed.jpg)
+![128-generated](images/128-generated.png)
 
 Finally this is the link to my deployed application: https://ashariat.github.io/password-generator/

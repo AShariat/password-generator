@@ -30,33 +30,32 @@ THEN the password is either displayed in an alert or written to the page
 ```
 This is the home page before any click:
 
-![](image\README\home-page.jpg)
+![home-page](https://user-images.githubusercontent.com/88262115/135521776-2bde5269-bcdc-4c1d-9600-8ccace060bcb.jpg)
 
 Then you will be asked to choose how many characters you need, it has to be a number between 8 to 128 or it will not proceed to the next step:
 
-(assets/images/password-length.jpg)
+![password-length](https://user-images.githubusercontent.com/88262115/135521823-e6c4d500-98f7-4867-9c47-b03dd9c3ba48.jpg)
 
 Then you will be asked series of questions to determine your desired password criteria:
 
-(assets/images/special-characters.jpg)
+![special-characters](https://user-images.githubusercontent.com/88262115/135521893-ec2a8135-e130-4463-94d3-729e40242f00.jpg)
 
-(assets/images/numeric-characters.jpg)
+![numeric-characters](https://user-images.githubusercontent.com/88262115/135521927-f2e2f0ba-1f95-40c3-bdd5-9b6f2785d47d.jpg)
 
-(assets/images/lowercase-characters.jpg)
+![lowercase-characters](https://user-images.githubusercontent.com/88262115/135521943-62a62e64-2170-4f11-9913-44aac75ce270.jpg)
 
-(assets/images/uppercase-characters.jpg)
+![uppercase-characters](https://user-images.githubusercontent.com/88262115/135521967-17bb9034-a6b4-41d0-8db9-f07cdc6cbadb.jpg)
 
 At least one criteria has to be selected or you will get a message and password generator will start over:
 
-(assets/images/no-criteria-selected.jpg)
+![no-criteria-selected](https://user-images.githubusercontent.com/88262115/135521993-6dcc2ece-6c1f-4ed5-b869-e544225cd4a0.jpg)
 
 This is the generated password if all ceriterias are selected and the length is set to 8 characters long:
 
-(assets/images/8-generated.jpg)
+![8-generated](https://user-images.githubusercontent.com/88262115/135522038-42353c1e-5f5e-404e-a0f0-111a585c89ad.jpg)
 
 This is the generated password if all ceriterias are selected and the length is set to 128 characters long:
 
-(assets/images/128-generated.jpg)
+![128-generated](https://user-images.githubusercontent.com/88262115/135522064-fcf59ac3-1a55-4914-8195-3e88a2ab90ed.jpg)
 
-Finally this is the link to my deployed application:
-(https://ashariat.github.io/password-generator/)
+Finally this is the link to my deployed application: https://ashariat.github.io/password-generator/

@@ -2,7 +2,7 @@ var generateBtn = document.querySelector("#generate");
 // here I have the main function that will start when user clicks on "Generate Password" button
 var generatePassword = function() {
   // ask question to see how many characters needed
-  var passwordLength = window.prompt("How many characters would you like your password to contain?");
+  var passwordLength = window.prompt("How many characters would you like your password to contain? (Password length must be at least 8 characters and no more than 128 characters!)");
   passwordLength = parseInt(passwordLength);
   // the number has to be between 8 to 128 and only numbers are accepted
   if (passwordLength >= 8 && passwordLength <= 128) {
